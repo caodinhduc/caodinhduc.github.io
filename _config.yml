@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cao Dinh Duc"
   avatar           : "images/avatar.png"
-  bio              : "Computer Vision Research Engineer"
+  bio              : "Research Engineer"
   location         : "Seoul, Korea"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Cao Dinh Duc"
+  linkedin         : "cao-dinh-duc-867602187"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm a research engineer on Computer Vision, which consists of 3D Computer Vision, Scene Understanding, and AR/VR applications.
-Previously, I received by Master’s degree in Computer Science at Hanyang University, advised by Prof. Jongwoo Lim. I completed my Bachelor’s degree at National University of Hanoi.
+Previously, I received Master’s degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim). I completed my Bachelor’s degree at Vietnam National University of Hanoi.
 
+I'm a royal fan of English football (Chelsea) and the music of Thomas Bergersen. I also wanna become an engineer, AI architect, scientist, programmer, troublemaker, manager, revisionist, analyst, academic, salesman, entrepreneur, data analyst, product owner, evangelist, debater, musician, biker, a husband, and a father as well.
 
 # 🔥 News
 - *2023.09*: I join AI research team of MAXST as a research engineer position.
-- *2023.08*: My research is accepted to publish at 34th British Machine Vision Conference, A conference ranked by CoreRanking, welcome to Aberdeen city, Scotland, United Kingdom. &nbsp;
+- *2023.08*: My research is accepted to publish at 34th British Machine Vision Conference, A conference ranked by CoreRanking, welcome to the Aberdeen city, Scotland, United Kingdom. &nbsp;
 - *2023.06*: I successfully denfended my Master’s thesis, congratulation for my graduation. &nbsp;🎉 
 - *2023.02*: My research is accepted to present (Oral) at 35th Workshop on Image Procession and Image Understanding, Jeju Island, Korea. &nbsp;🎉
 
@@ -48,13 +49,13 @@ Previously, I received by Master’s degree in Computer Science at Hanyang Unive
 
 # 🎖 Honors and Awards
 - *2023.07* Graduation scholarship from Hyundai Chung Mong Koo Foundation, 1M KRW. 
-- *2023.02* Bronze paper adward at 35 Workshop on Image Processing and Image Understanding, 0.3M KRW.
-- *2021.09* Hyundai Chung Mong Koo Foundation, admisison fee (1M KRW) + tuition fee for 4 semester (~35M KRW) + settlement (3M KRW) + monthly support for 2 years (24M KRW)
+- *2023.02* Bronze paper award at 35 Workshop on Image Processing and Image Understanding, 0.3M KRW.
+- *2021.09* Hyundai Chung Mong Koo Foundation, admisison fee (1M KRW) + tuition fee for 4 semesters (~35M KRW) + settlement (3M KRW) + monthly support for 2 years (24M KRW)
 - *2021.09* BrainKorea21, National Research Foundation of Korea, 26M KRW.
 
 # 📖 Educations
 - *2021.09 - 2023.08*, M.S. in Computer Science, Hanyang University. 
-- *2014.09 - 2018.06*, B.S. in Electronics and Telecommunication, National University of Hanoi. 
+- *2014.09 - 2018.06*, B.S. in Electronics and Telecommunication, Vietnam National University of Hanoi. 
 
 # 💬 Invited Talks
 - *2023.10*, Deep learning for Monocular Omnidirectional Depth Estimation, Robot Vision Lab, Seoul National University.
