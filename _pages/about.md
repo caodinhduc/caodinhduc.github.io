@@ -20,13 +20,13 @@ redirect_from:
 I'm a research engineer on Computer Vision, which consists of 3D Computer Vision, Scene Understanding, and AR/VR applications.
 Previously, I received Master’s degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim). I completed my Bachelor’s degree at Vietnam National University of Hanoi.
 
-I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I also wanna become an engineer, AI architect, scientist, programmer, troublemaker, manager, revisionist, analyst, academic, salesman, entrepreneur, data analyst, product owner, evangelist, debater, musician, biker, a husband, and a father as well. Probably forgot a few.
+I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I also wanna become an engineer, AI architect, scientist, programmer, troublemaker, manager, revisionist, analyst, salesman, entrepreneur, data analyst, product owner, evangelist, debater, musician, comedian, biker, coffee addict, ... a husband, and a father as well, probably forgot a few.
 
 # 🔥 News
 - *2023.09*: I join AI research team of MAXST as a research engineer position.
-- *2023.08*: My research is accepted to publish at 34th British Machine Vision Conference, A conference ranked by CoreRanking, welcome to the Aberdeen city, Scotland, United Kingdom. &nbsp;
+- *2023.08*: My research is accepted to publish at 34th British Machine Vision Conference, an A conference ranked by CoreRanking, welcome to the Aberdeen city, Scotland, United Kingdom. &nbsp;
 - *2023.06*: I successfully denfended my Master’s thesis, congratulation for my graduation. &nbsp;🎉 
-- *2023.02*: My research is accepted to present (Oral) at 35th Workshop on Image Procession and Image Understanding, Jeju Island, Korea. &nbsp;🎉
+- *2023.02*: My research is accepted to present (Oral) at 35th Workshop on Image Processing and Image Understanding, Jeju Island, Korea. &nbsp;🎉
 
 # 📝 Publications 
 
