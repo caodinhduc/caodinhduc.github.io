@@ -20,7 +20,7 @@ redirect_from:
 I'm a research engineer on Computer Vision, which consists of 3D Computer Vision, Scene Understanding, and AR/VR applications.
 Previously, I received Master’s degree in Computer Science at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by [Prof. Jongwoo Lim](https://rvlab.snu.ac.kr/people/jwlim). I completed my Bachelor’s degree at Vietnam National University of Hanoi.
 
-I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I also wanna become an engineer, AI architect, scientist, programmer, troublemaker, manager, revisionist, analyst, salesman, entrepreneur, data analyst, product owner, evangelist, debater, musician, comedian, biker, coffee addict, ... a husband, and a father as well, probably forgot a few.
+I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I also wanna become an engineer, AI architect, scientist, programmer, troublemaker, manager, revisionist, evangelist, salesman, entrepreneur, data analyst, product owner, debater, musician, comedian, biker, coffee addict, soju addict, ... a husband, and a father as well, probably forgot a few.
 
 # 🔥 News
 - *2023.09*: I join AI research team of MAXST as a research engineer position.
@@ -34,7 +34,7 @@ I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I al
 <div class='paper-box-text' markdown="1">
 
 [X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction](https://proceedings.bmvc2023.org/326/)
-**Cao Dinh Duc**, Jongwoo Lim 
+**Duc Cd**, Jongwoo Lim 
 </div>
 </div>
 
@@ -42,7 +42,7 @@ I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I al
 <div class='paper-box-text' markdown="1">
 
 [PlaneDepthNet: Accurate Joint Plane Instance Segmentation and Depth Estimation with Cross-Task Attention and Boundary Exploitation](http://ipiu2023.ipiu.or.kr/?act=info.page&pcode=sub04)
-**Cao Dinh Duc**, Jongwoo Lim 
+**Duc Cd**, Jongwoo Lim 
 </div>
 </div>
 
