@@ -23,6 +23,7 @@ Previously, I received Master’s degree in Computer Science at [Hanyang Univers
 I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I also wanna become an engineer, AI architect, scientist, programmer, troublemaker, manager, revisionist, evangelist, salesman, entrepreneur, data analyst, product owner, debater, musician, comedian, biker, coffee addict, soju addict, ... a husband, and a father as well, probably forgot a few.
 
 # 🔥 News
+- *2024.08*: Our research is accepted to publish at the International Symposium on Mixed and Augmented Reality, an A* conference ranked by CoreRanking, congratulation to our team. &nbsp;
 - *2023.09*: I join AI research team of MAXST as a research engineer position.
 - *2023.08*: My research is accepted to publish at 34th British Machine Vision Conference, an A conference ranked by CoreRanking, welcome to the Aberdeen city, Scotland, United Kingdom. &nbsp;
 - *2023.06*: I successfully denfended my Master’s thesis, congratulation for my graduation. &nbsp;🎉 
