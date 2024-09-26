@@ -23,9 +23,10 @@ Previously, I received Master’s degree in Computer Science at [Hanyang Univers
 I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I also wanna become an engineer, AI architect, scientist, programmer, troublemaker, manager, revisionist, evangelist, salesman, entrepreneur, data analyst, product owner, debater, musician, comedian, biker, coffee addict, soju addict, ... a husband, and a father as well, probably forgot a few.
 
 # 🔥 News
-- *2024.08*: Our research is accepted to publish at the International Symposium on Mixed and Augmented Reality, an A* conference ranked by CoreRanking, congratulation to our team. &nbsp;
+- *2024.09*: Our research (first author) is accepted to publish at the  Conference on Neural Information Processing Systems (NeurIPS 2024), the most prestigious conference in Artificial Intelligence, congrats. &nbsp;
+- *2024.08*: Our research (co-author) is accepted to publish at the International Symposium on Mixed and Augmented Reality, an A* conference ranked by CoreRanking, congratulation to our team. &nbsp;
 - *2023.09*: I join AI research team of MAXST as a research engineer position.
-- *2023.08*: My research is accepted to publish at 34th British Machine Vision Conference, an A conference ranked by CoreRanking, welcome to the Aberdeen city, Scotland, United Kingdom. &nbsp;
+- *2023.08*: My research (first author) is accepted to publish at 34th British Machine Vision Conference, an A conference ranked by CoreRanking, welcome to the Aberdeen city, Scotland, United Kingdom. &nbsp;
 - *2023.06*: I successfully denfended my Master’s thesis, congratulation for my graduation. &nbsp;🎉 
 - *2023.02*: My research is accepted to present (Oral) at 35th Workshop on Image Processing and Image Understanding, Jeju Island, Korea. &nbsp;🎉
 
