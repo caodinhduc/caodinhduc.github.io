@@ -38,12 +38,14 @@ I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I al
 [Geometric Exploitation for Indoor Panoramic Semantic Segmentation](https://neurips.cc/virtual/2024/poster/94323)
 **Cao Dinh Duc**, Seok Joon Kim, Kyusung Cho
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMAR 2024</div><img src='images/ismar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GRoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices](https://ieeexplore.ieee.org/document/10765449)
+[RoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices](https://ieeexplore.ieee.org/document/10765449)
 Seok Joon Kim, **Dinh Duc Cao**, Federica Spinola, Se Jin Lee, Kyu Sung Cho
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/bmvc-logo.png' alt="sym" width="100%"></div></div>
