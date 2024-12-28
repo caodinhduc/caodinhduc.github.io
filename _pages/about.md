@@ -23,14 +23,28 @@ Previously, I received Master’s degree in Computer Science at [Hanyang Univers
 I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I also wanna become an engineer, AI architect, scientist, programmer, troublemaker, manager, revisionist, evangelist, salesman, entrepreneur, data analyst, product owner, debater, musician, comedian, biker, coffee addict, soju addict, ... a husband, and a father as well, probably forgot a few.
 
 # 🔥 News
-- *2024.09*: Our research (first author) is accepted to publish at the  Conference on Neural Information Processing Systems (NeurIPS 2024), the most prestigious conference in Artificial Intelligence, congrats. &nbsp;
-- *2024.08*: Our research (co-author) is accepted to publish at the International Symposium on Mixed and Augmented Reality, an A* conference ranked by CoreRanking, congratulation to our team. &nbsp;
+- *2024.09*: Our research (first author) is accepted to publish at the main track of the Conference on Neural Information Processing Systems (NeurIPS 2024), the most prestigious conference in Artificial Intelligence, congrats. &nbsp;
+- *2024.08*: Our research (co-author) is accepted to publish at the International Symposium on Mixed and Augmented Reality (top 5% accepted papers), an A* conference ranked by CoreRanking, congratulation to our team. &nbsp;
 - *2023.09*: I join AI research team of MAXST as a research engineer position.
 - *2023.08*: My research (first author) is accepted to publish at 34th British Machine Vision Conference, an A conference ranked by CoreRanking, welcome to the Aberdeen city, Scotland, United Kingdom. &nbsp;
 - *2023.06*: I successfully denfended my Master’s thesis, congratulation for my graduation. &nbsp;🎉 
 - *2023.02*: My research is accepted to present (Oral) at 35th Workshop on Image Processing and Image Understanding, Jeju Island, Korea. &nbsp;🎉
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Geometric Exploitation for Indoor Panoramic Semantic Segmentation](https://neurips.cc/virtual/2024/poster/94323)
+**Cao Dinh Duc**, Seok Joon Kim, Kyusung Cho
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMAR 2024</div><img src='images/ismar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GRoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices](https://ieeexplore.ieee.org/document/10765449)
+Seok Joon Kim, **Dinh Duc Cao**, Federica Spinola, Se Jin Lee, Kyu Sung Cho
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/bmvc-logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
