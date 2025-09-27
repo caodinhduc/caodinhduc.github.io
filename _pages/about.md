@@ -24,7 +24,7 @@ I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I al
 
 # 🔥 News
 - *2025.08*: Served as a reviewer for AAAI 2025, a top-tier (A*-ranked) international conference in Artificial Intelligence.
-- *2025.02*: February 2025: Joined the AI Research Team at 3i.ai as a Computer Vision Research Engineer. I contribute to the development of a complete pipeline for a 3D Indoor Reconstruction project, including modules for image matching, pose estimation, structure from motion, depth estimation, and color texturing.
+- *2025.02*: Joined the AI Research Team at 3i.ai as a Computer Vision Research Engineer. I contribute to the development of a complete pipeline for a 3D Indoor Reconstruction project, including modules for image matching, pose estimation, structure from motion, depth estimation, color texturing, and image searching.
 - *2024.09*: Our research (first author) is accepted to publish at the main track of the Conference on Neural Information Processing Systems (NeurIPS 2024), the most prestigious conference in Artificial Intelligence, congrats. &nbsp;
 - *2024.08*: Our research (co-author) is accepted to publish at the International Symposium on Mixed and Augmented Reality (top 5% accepted papers), an A* conference ranked by CoreRanking, congratulation to our team. &nbsp;
 - *2023.09*: I join AI research team of MAXST as a research engineer position.
