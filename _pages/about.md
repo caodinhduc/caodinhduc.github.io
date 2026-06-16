@@ -23,6 +23,8 @@ Previously, I received Master’s degree in Computer Science at [Hanyang Univers
 I'm a royal fan of Chelsea Football Club and the music of Thomas Bergersen. I also wanna become an engineer, AI architect, scientist, programmer, troublemaker, manager, revisionist, evangelist, salesman, entrepreneur, data analyst, product owner, debater, musician, comedian, biker, coffee addict, soju addict, ... a husband, and a father as well, probably forgot a few.
 
 # 🔥 News
+- *2026.06*: Served as a reviewer for NeurIPS 2026, a top-tier (A*-ranked) international conference in Artificial Intelligence.
+- *2026.06*: Served as a reviewer for ECCV 2026, a top-tier (A*-ranked) international conference in Computer Vision.
 - *2025.08*: Served as a reviewer for AAAI 2025, a top-tier (A*-ranked) international conference in Artificial Intelligence.
 - *2025.02*: Joined the AI Research Team at 3i.ai as a Computer Vision Research Engineer. I contribute to the development of a complete pipeline for a 3D Indoor Reconstruction project, including modules for image matching, pose estimation, structure from motion, depth estimation, color texturing, and image searching.
 - *2024.09*: Our research (first author) is accepted to publish at the main track of the Conference on Neural Information Processing Systems (NeurIPS 2024), the most prestigious conference in Artificial Intelligence, congrats. &nbsp;
